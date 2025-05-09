@@ -1,10 +1,12 @@
 # portfolio-site
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 Contributor: Felix Menges
 
 ## Project Overview
 Final project for BAIS:3300 Digital Product Management to create a portfolio website. Over the semester, I learned how to develop a website from scratch, from creating OKRs and KPIs to writing HTML and CSS code to create webpages and webforms. I use an Azure Static Web app to host my site.
+
+Additionally, I set up a Google Analytics tag on my site to track and analyze website traffic and user behavior on my site. One requirement for this project was to get 100 unique users to visit my site. To drive traffic to my site, I set up 3 Google Analytics campaigns to share my site via word-of-mouth, LinkedIn, and Facebook. My campaigns were a success. Within a week of my site going live, I got 150 new users to my site, with most users coming from word-of-mouth referrals.
 
 ## Instruction to Run the Application
 1. Visit my website [felixmenges.me](https://felixmenges.me/)
